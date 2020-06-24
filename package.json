@@ -1,7 +1,7 @@
 {
   "name": "first-package",
   "version": "1.0.0",
-  "description": "",
+  "description": "Ultimate weapon to save time in small projects with github",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,6 +9,6 @@
     "push": "git add -A && git commit -m \"updated\" && git push origin master" 
   },
   "keywords": [],
-  "author": "gpanebra",
+  "author": "gpanebra <gpanebramoina@gmail.com>",
   "license": "ISC"
 }
