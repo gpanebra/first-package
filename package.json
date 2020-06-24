@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "save": "git add -A && git commit -m \"updated\""
+    "save": "git add -A && git commit -m \"updated\"",
+    "push": "git add -A && git commit -m \"updated\" && git push origin master" 
   },
   "keywords": [],
   "author": "gpanebra",
